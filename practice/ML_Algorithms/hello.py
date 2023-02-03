@@ -12,3 +12,5 @@ class name:
         return self.age
 x=name()
 print(x.dis)
+print('adding to check merge commit')
+
