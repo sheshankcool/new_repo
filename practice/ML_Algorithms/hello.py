@@ -5,4 +5,4 @@ print('this is the third change in the code ')
 def add_func():
     print('function:')
 add_func()
-      
+print('adding to check merge commit')
